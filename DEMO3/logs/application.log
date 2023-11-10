@@ -1,0 +1,9 @@
+2023-11-09 21:32:01 [INFO ] PhoneDirectory - Application started
+2023-11-09 21:41:40 [INFO ] PhoneDirectory - New contact has been added: [Name: John Smith, Phone: 9876543210, Type: Home]
+2023-11-09 21:41:40 [INFO ] PhoneDirectory - Contact has been deleted: [Name: John Smith, Phone: 9876543210, Type: Home]
+2023-11-09 21:41:40 [INFO ] PhoneDirectory - New contact has been added: [Name: John Doe, Phone: 1234567890, Type: Mobile]
+2023-11-09 21:43:42 [INFO ] PhoneDirectory - Application started
+2023-11-09 21:44:01 [INFO ] PhoneDirectory - New contact has been added: [Name: дима, Phone: 65498, Type: Mobile]
+2023-11-09 21:44:11 [INFO ] PhoneDirectory - New contact has been added: [Name: йцу, Phone: йцу, Type: Home]
+2023-11-09 21:44:30 [INFO ] PhoneDirectory - Contact has been deleted: [Name: дима, Phone: 65498, Type: Mobile]
+2023-11-09 21:44:32 [INFO ] PhoneDirectory - Contact has been deleted: [Name: йцу, Phone: йцу, Type: Home]
